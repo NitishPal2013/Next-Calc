@@ -12,3 +12,6 @@ This web-app have basic functionality of a simple calculator
 ## Learnings
 1. Learned Next.js Concepts
 2. Tailwind css.
+
+### Link
+https://next-calc-woad.vercel.app/
